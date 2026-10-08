@@ -53,7 +53,7 @@ const Career = () => {
                 <h4>Education</h4>
                 <h5>Bachelor's Degree</h5>
               </div>
-              <h3>2021–26</h3>
+              <h3>2021–25</h3>
             </div>
 
             <p>
